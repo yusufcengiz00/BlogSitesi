@@ -1,1 +1,1 @@
-# BlogSitesi,
+# C# ve ASP.NET kullanılarak proje tamamlandı. Giriş yapılarak admin sayfasına yönlendirilirsiniz. Ardından burda kendinizle alakalı tüm bilgileri silebilir güncelleyebilir veya yeni bilgi ekleme işlemleri yapabilirsiniz. Murat Yücedağ hocamıza teşekkürler
